@@ -1,0 +1,129 @@
+<view class="bg">
+    
+</view>
+
+<view class="name">
+    <view class="touxiang">
+    
+    </view>
+
+    <view class="jieshao">
+       <h3>王五</h3>
+       <h4>置业顾问，累计服务100+客户</h4>
+       <h5>新城金郡</h5>
+    </view>
+   
+
+</view>
+
+<view class="imfor">
+    <view class="phone">
+
+        <image  src='../../icon/phone.png'></image>
+        <h4>电话</h4>
+        <h5>15161158888</h5>
+        <h3>
+           <image  src='../../icon/qianjin.png'></image>
+        </h3>
+
+    </view>
+    
+    <view class="wxh">
+        <image  src='../../icon/mobile.png'></image>
+        <h4>微信</h4>
+        <h5>15161158888</h5>
+        <h3>
+           <image  src='../../icon/qianjin.png'></image>
+        </h3>
+    </view>
+
+    <view class="wx">
+        <image  src='../../icon/qrcode.png'></image>
+        <h4>二维码</h4>
+        <h5>点击查看</h5>
+        <h3>
+           <image  src='../../icon/qianjin.png'></image>
+        </h3>
+    </view>
+
+    <view class="dz">
+        <image  src='../../icon/location.png'></image>
+        <h4>地址</h4>
+        <h5>金坛大道与东环一路交汇</h5>
+        <h3>
+           <image  src='../../icon/qianjin.png'></image>
+        </h3>
+    </view>
+</view>
+
+<view class="share">
+    <view class="bt1">
+    分享名片
+    </view>
+
+    <view class="bt2">
+    保存至通讯录
+    </view>
+
+</view>
+
+<view class="fwgj">
+   <h3>服务轨迹</h3>
+   <view class="jdkh">
+       <ul>
+           <li>
+           <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+
+           <li>
+           <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+
+           <li>
+            <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+
+           <li>
+            <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+
+           <li>
+            <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+
+           <li>
+            <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+
+           <li>
+            <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+       </ul>
+   </view>
+    
+</view>
+
+<view class="ssxm-1">
+    <h4>所属项目</h4>
+    <h5>查看更多</h5>
+</view>
+
+<view class="ssxm-2">
+    <h4>新城金郡</h4>
+</view>
+
+<view class="photo">
+    <h4>我的相册</h4>
+    <view class="xc">
+        <image  src='../../icon/xc1.jpg'></image>
+        <image  src='../../icon/xc2.jpg'></image>
+        <image  src='../../icon/xc3.jpg'></image>
+    </view>
+</view>
