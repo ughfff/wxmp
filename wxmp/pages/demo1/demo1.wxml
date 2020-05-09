@@ -1,60 +1,79 @@
 <view class="bg">
-    
+<image  src='../../icon/yinhao.png'></image>
+<h4>0519-89898888</h4>
 </view>
 
 <view class="name">
     <view class="touxiang">
-    
+    头像
     </view>
 
     <view class="jieshao">
-       <h3>王五</h3>
-       <h4>置业顾问，累计服务100+客户</h4>
+       <h2>王五</h2>
+       <h3>置业顾问</h3>
+       <h4>，累计服务100+客户</h4>
        <h5>新城金郡</h5>
     </view>
-   
+
+    <view class="dz">
+    <image  src='../../icon/zan.png'></image>
+    <h3>146</h3>
+    <h4>赞</h4>
+    </view>
 
 </view>
 
 <view class="imfor">
     <view class="phone">
-
-        <image  src='../../icon/phone.png'></image>
-        <h4>电话</h4>
-        <h5>15161158888</h5>
+        <view class="p">
+            <image  src='../../icon/phone.png'></image>
+        </view>
         <h3>
            <image  src='../../icon/qianjin.png'></image>
         </h3>
-
+        <h4>手机</h4>
+        <h5>15161158888</h5>
     </view>
-    
+
     <view class="wxh">
-        <image  src='../../icon/mobile.png'></image>
+        <view class="p">
+            <image  src='../../icon/mobile.png'></image>
+        </view>
+        <h3>
+           <image  src='../../icon/qianjin.png'></image>
+        </h3>
         <h4>微信</h4>
         <h5>15161158888</h5>
+    </view>
+
+    <view class="ewm">
+        <view class="p">
+            <image  src='../../icon/qrcode.png'></image>
+        </view>
         <h3>
            <image  src='../../icon/qianjin.png'></image>
         </h3>
-    </view>
-
-    <view class="wx">
-        <image  src='../../icon/qrcode.png'></image>
         <h4>二维码</h4>
-        <h5>点击查看</h5>
-        <h3>
-           <image  src='../../icon/qianjin.png'></image>
-        </h3>
+        <h5>
+        <image  src='../../icon/ico.png'></image>
+        </h5>
     </view>
 
-    <view class="dz">
-        <image  src='../../icon/location.png'></image>
-        <h4>地址</h4>
-        <h5>金坛大道与东环一路交汇</h5>
+    <view class="adress">
+        <view class="p">
+            <image  src='../../icon/location.png'></image>
+        </view>
         <h3>
            <image  src='../../icon/qianjin.png'></image>
         </h3>
+        <h4>地址</h4>
+        <h5>金坛大道与东环一路</h5>
     </view>
+    
+
 </view>
+
+
 
 <view class="share">
     <view class="bt1">
@@ -64,11 +83,14 @@
     <view class="bt2">
     保存至通讯录
     </view>
+</view>
 
+<view class="guanzhu">
+    <image  src='../../icon/gzt.jpg'></image>
 </view>
 
 <view class="fwgj">
-   <h3>服务轨迹</h3>
+   <h2>服务轨迹</h2>
    <view class="jdkh">
        <ul>
            <li>
@@ -76,33 +98,33 @@
            <h5>2020-05-07</h5>
            </li>
 
+           <li>          
+           <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+
+           <li>        
+           <h4>接待客户**</h4>
+           <h5>2020-05-07</h5>
+           </li>
+
            <li>
            <h4>接待客户**</h4>
            <h5>2020-05-07</h5>
            </li>
 
            <li>
-            <h4>接待客户**</h4>
+           <h4>接待客户**</h4>
            <h5>2020-05-07</h5>
            </li>
 
            <li>
-            <h4>接待客户**</h4>
+           <h4>接待客户**</h4>
            <h5>2020-05-07</h5>
            </li>
 
            <li>
-            <h4>接待客户**</h4>
-           <h5>2020-05-07</h5>
-           </li>
-
-           <li>
-            <h4>接待客户**</h4>
-           <h5>2020-05-07</h5>
-           </li>
-
-           <li>
-            <h4>接待客户**</h4>
+           <h4>接待客户**</h4>
            <h5>2020-05-07</h5>
            </li>
        </ul>
@@ -111,12 +133,19 @@
 </view>
 
 <view class="ssxm-1">
-    <h4>所属项目</h4>
-    <h5>查看更多</h5>
+    <h3>所属项目</h3>
+    <h4>查看更多</h4>
+    <image  class="qianjin" src='../../icon/qianjin.png'></image>
+
 </view>
 
 <view class="ssxm-2">
+
+    <image  src='../../icon/fangzi.png'></image>
+
     <h4>新城金郡</h4>
+
+    <image  class="qianjin" src='../../icon/qianjin.png'></image>
 </view>
 
 <view class="photo">
